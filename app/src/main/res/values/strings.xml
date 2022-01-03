@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ManSan</string>
+    <string name="ManSan2">AMRIT-SAIR!</string>
+    <string name="please_enter_your_details_to_carry_out_the_process">Please enter your details to carry out the process...</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="glad_to_have_someone_taking_a_step_out_for_to_make_a_bright_future_for_our_stay_dogs">Glad to have someone taking a step out for to make a bright future for our stay dogs!</string>
+    <string name="hint">hint</string>
+    <string name="checkedtextview">CheckedTextView</string>
+</resources>
